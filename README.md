@@ -15,7 +15,7 @@
 
 
  # ❯ Fun CMds 
-`24/7`adddj`,`removedj`,`reset`,`setup`,`ping`,`uptime`
+`24/7`,`adddj`,`removedj`,`reset`,`setup`,`ping`,`uptime`
     FUN `kiss`,`hug`,`pat`,`zaglo`,`slap`,`smug`,`tickle`,`poke`,`binary`,`calculate`,`lovecal`,`meme`,`advice`,`scroll`
-    # ❯ IMAGE 
+ # ❯ IMAGE 
 `triggered`,`delete`,`rip`,`jail`,`captcha`,`wideavatar`,`toilet`,`wa`,`clyde`,`wasted`,`effect`,`tweet`,`minecraft`,`blur`,`beautiful`,`catsay`,`cowsay`,`fliptext`
